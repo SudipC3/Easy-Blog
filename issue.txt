@@ -1,0 +1,4 @@
+1.all posts not working 
+2.logout button not working 
+3. change the ui to look good 
+4. sign up not working properly , take action on createAccount() function
